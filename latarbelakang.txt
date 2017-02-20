@@ -1,0 +1,4 @@
+latar belakang:
+--1---
+aplikasi yang telah saat ini belum memiliki fitur untuk mengetahui berapa jumlah tempat yang tersedia pada kafe tersebut. Sebagaimana user masih harus direpotkan untuk menanyakan perihal informasi terkait jumlah tempat yang tersedia atau informasi menu yang tersedia. Untuk itu maka dibutuhkan sistem yang dapat digunakan untuk melakukan reservasi kafe secara online
+ 
